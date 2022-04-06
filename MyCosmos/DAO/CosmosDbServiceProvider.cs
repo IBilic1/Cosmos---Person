@@ -6,7 +6,7 @@ namespace MyCosmos.DAO
     public static class CosmosDbServiceProvider
     {
         private const string Account = "...";
-        private const string Key = "...";
+        private const string Key = "";
         private const string ContainerName = "x";
         private const string DatabaseName = "x";
 
